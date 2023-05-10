@@ -2,11 +2,14 @@
 
 
 SRA: SRP418305
+--
 BioProject: PRJNA925533
+--
 GEO: GSE223292
+--
 
 Abstract: from the Bioproject
-------------------------------------------------------------------------------------------------------------------
+
 Retromer controls cellular homeostasis through regulating integral membrane protein sorting and transport and by 
 controlling maturation of the endo-lysosomal network. Retromer dysfunction, which is linked to neurodegenerative 
 disorders including Parkinson's and Alzheimer's diseases, manifests in complex cellular phenotypes, though the 
@@ -18,7 +21,6 @@ autophagic lysosome reformation, coupled with a reconfigured cell surface proteo
 increased lysosomal exocytosis. Through this global proteomic approach and parallel transcriptomic analysis, 
 we provide an unprecedented integrated view of Retromer function in regulating lysosomal homeostasis and
 emphasise its role in neuroprotection.
------------------------------------------------------------------------------------------------------------------
 
 Overall design: Comparative gene expression profiling analysis of RNA-seq data for wild-type H4 cells, 
 three VPS35 KO clones, and three corresponding VPS35 KO clones rescued with VPS35-GFP expression
@@ -31,6 +33,9 @@ All the scripts for quantification, trimming, QC are added to the repo along wit
 
 -----------------------------------------------------------------------------------------------------------------------
 Trimmomatic for adapter trimming
+
 Multiqc for QC 
+
 Salmon for  quantification of reads
+
 DESeq2 for differntial gene expression
