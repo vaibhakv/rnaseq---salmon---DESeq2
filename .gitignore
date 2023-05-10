@@ -1,0 +1,7 @@
+/QC/raw/
+/QC/trimmed_final/
+/QC/trimmed_mid/
+scripts/gencode_index/
+project/project.Rproj
+project/.RData
+project/.Rhistory

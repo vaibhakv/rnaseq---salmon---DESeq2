@@ -1,0 +1,8 @@
+{
+    "salmon_version": "1.10.1",
+    "index": "gencode_index",
+    "libType": "A",
+    "output": "GSM6944503",
+    "unmatedReads": "SRR23126525_trimmed_polyA.fq.gz",
+    "auxDir": "aux_info"
+}
