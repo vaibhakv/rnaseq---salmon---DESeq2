@@ -31,6 +31,8 @@ Then I checked their correlation.
 
 All the scripts for quantification, trimming, QC are added to the repo along with the plots of DGE and Gene enrichment.
 
+I also added the salmon quant.sf files if you want to recreate the DGE analysis
+
 -----------------------------------------------------------------------------------------------------------------------
 Trimmomatic for adapter trimming
 
